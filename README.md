@@ -1,0 +1,1 @@
+# ethnologiefrancaise <Feuille de style pour la revue française Ethnologie française, publiée aux Presses universitaires de France et pouvant convenir avec quelques adaptations éventuelles à d'autres revues de SHS de l'éditeur.>
